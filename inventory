@@ -1,5 +1,6 @@
 [webservers]
 servera
 serverb
-[loadbalancer]
+[dbservers]
 serverc
+serverd
