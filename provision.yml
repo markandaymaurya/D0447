@@ -1,6 +1,6 @@
 ---
 - name: cofigure a basic server
-  hosts: webservers
+  hosts: all
   become: true
   tasks: 
     - name: ensure that httpd package is present
