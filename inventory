@@ -1,6 +1,6 @@
-[webservers]
+[firstgroup]
 servera
 serverb
-[dbservers]
+[secgroup]
 serverc
 serverd
